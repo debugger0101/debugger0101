@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @debugger0101
-- 👀 I’m interested in ... programming,coding,cyber security, software developing.
-- 🌱 I’m currently learning ...Computer Science.
-- 💞️ I’m looking to collaborate on ...new projects.
+-  Hi, I’m @debugger0101
+-  I’m interested in ... programming,coding,cyber security, software developing.
+-  I’m currently learning ...Computer Science. 
 
 
 <!---
