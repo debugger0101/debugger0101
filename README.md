@@ -1,3 +1,2 @@
 -  Hi, I’m Adarsh
--  I’m interested in ... programming, data science, data analysis and cyber security.
--  I’m currently learning ...Computer Science. 
+-  I’m interested in ... programming, data science and cyber security.
